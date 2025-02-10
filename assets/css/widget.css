@@ -1,0 +1,31 @@
+/*!
+ * Виджет информационной панели "Лицензия".
+ *
+ * Copyright 2015 Вeб-студия GearMagic
+ * Copyright Anton Tivonenko <anton.tivonenko@gmail.com>
+ * https://gearmagic.ru/license/
+ */
+
+.gm-widget-license label { color: #bbbbbb; }
+.gm-widget-license .x-panel-body {
+    background-image: url("../images/icon_fill.svg") !important;
+    background-repeat: no-repeat !important;
+    background-position: 10px center !important;
+    background-size: contain !important;
+    padding: 10px;
+ }
+ h2.gm-widget-license__key {
+    margin-bottom: 15px;
+    margin-top: 0;
+ }
+ .gm-widget-license__msg-warning {
+    font-size: 13px; 
+     color: #e78155;
+     margin-bottom: 10px;
+ }
+ .gm-widget-license__msg-warning span {
+     color: #5c5a58;
+ }
+ .gm-widget-license__msg {
+    color: #5c5a58;
+ }
