@@ -1,13 +1,7 @@
 {
     "name": "gearmagicru/gm-ds-license",
     "description": "Dashboard widget \"License\"",
-    "keywords": [
-        "gm",
-        "gearmagic",
-        "dashboard",
-        "widget",
-        "license"
-    ],
+    "keywords": ["gearmagic", "gm-panel", "gm-component", "gm-widget", "widget", "license"],
     "homepage": "https://apps.gearmagic.ru/component/gm-ds-license",
     "type": "component",
     "license": "MIT",
